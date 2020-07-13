@@ -16,24 +16,24 @@ npm link
 
 ```
 # Help & Commands
-coindex -h
+coinster -h
 
 # Version
-coindex -V
+coinster -V
 
 # API Key Commands
-coindex key set
-coindex key show
-coindex key remove
+coinster key set
+coinster key show
+coinster key remove
 
 # Crypto Check Commands
-coindex check price
+coinster check price
 
 # Check Specific Coins (default: BTN,ETH,XRP)
-coindex check --coin=BTC,ETH
+coinster check --coin=BTC,ETH
 
 # Choose Currency (Default: USD)
-coindex check --cur=EUR
+coinster check --cur=EUR
 ```
 
 ### Version
